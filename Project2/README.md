@@ -12,14 +12,14 @@
 #### 2. What I use in this project
  * Frameworks : clean ~~JavaScript~~, CSS, HTML
  * Links: [Screenshot](https://github.com/EvilEpicCoder/AnneIsabellaAndCrazyMax/blob/master/Project2/Screen%20Shot%202018-02-12%20at%2012.45.01.png "screenshot Anne Isabella Rassmussen personal page")
- * What cool things I found:
-  * What I do not like:
-  * Features:
+ * What cool things I found: Pretty good optimized.
+  * What I do not like: Optimization is hard and it not 100/100 :((
+  * Features: Simple, fast, mobile friendly
 
 #### 3. My thoughts
   * Pros : basic component
   * Cons : best way implement
-  * Time consumption: 3 hours
+  * Time consumption: 3 hours + 3 hours for optimization
   * What I learned: If you for long time do not use thing - you forget how to use this.
 
   Version: `0.2`
